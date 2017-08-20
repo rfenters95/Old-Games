@@ -3,7 +3,7 @@ Games I made when first learning Java.
 
 ## Downloads
 
-You can download either the source-code via [DownGit](https://minhaskamal.github.io/DownGit/#/home) or the executable JAR via GitHub 
+You can download either the source-code via [DownGit](https://minhaskamal.github.io/DownGit/#/home) or the executable JAR via GitHub for individual games using the links below.
 
 
 1. Flappy-Bird: [source](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/rfenters95/Old-Games/tree/master/Flappy-Bird) or [JAR](https://github.com/rfenters95/Old-Games/raw/master/JARs/FlappyBird.jar)
