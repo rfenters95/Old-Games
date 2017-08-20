@@ -1,4 +1,4 @@
-package com.company;
+package main;
 
 import javafx.geometry.Insets;
 import javafx.scene.control.Label;
