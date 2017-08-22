@@ -1,5 +1,5 @@
 # Old-Games
-Games I made when first learning Java.
+Games I made when first learning Java. I made these in the summer after finishing CS 190: Programming Fundamentals in prepartion for CS 226: Programming and Algorithmic Design I at Francis Marion University.
 
 ## Downloads
 
